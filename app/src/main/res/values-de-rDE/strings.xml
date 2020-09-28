@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KAFFE</string>
+    <string name="toppings">BELAG</string>
+    <string name="cream">SCHLAGSAHNE</string>
+    <string name="chocolate">SCHOKOLADE</string>
+    <string name="quantity">" MENGE"</string>
+    <string name="summary">BESTELLÜBERSICHT</string>
+    <string name="thank_you">Danke</string>
+</resources>
